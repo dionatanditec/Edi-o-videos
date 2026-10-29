@@ -7,7 +7,7 @@
 - Plataformas: Instagram (Reels) e TikTok
 - Proporção: 9:16 vertical, 1080x1920
 - Duração: 30 a 60 segundos
-- Nicho: Tainá, terapeuta psicanalista
+- Nicho: Taína, terapeuta psicanalista
 
 ## Ritmo
 - Calmo, acolhedor, sem pressa
