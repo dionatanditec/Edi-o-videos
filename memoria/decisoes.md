@@ -2,6 +2,12 @@
 
 Formato: data — decisão — motivo. Mais recentes no topo.
 
+## 2026-10-29 — Edições pesadas ficam no computador
+- **Decisão:** vídeos e áudios não vão mais para o GitHub; as edições pesadas serão feitas no computador do Dionatan.
+  O repositório guarda só CLAUDE.md, INDEX.md, memoria/, scripts em `ferramentas/` e cenários leves.
+- **Motivo:** vídeos deixam o repositório pesado (limite de 100 MB por arquivo).
+- **Estado:** os vídeos de teste continuam no histórico do Git (cerca de 30 MB no total); não foram apagados do histórico.
+
 ## 2026-10-29 — Versão 2 do podcast: cenário frontal desenhado
 - **Motivo:** o Dionatan achou a v1 ruim; o problema principal era o ângulo da foto (de lado/de baixo) diferente do vídeo (de frente).
 - **Decisão:** cenário desenhado por código, de frente e na altura dos olhos, desfocado como câmera real, com luz quente; sombra dela na parede; correção de cor; grão leve.

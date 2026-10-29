@@ -22,3 +22,5 @@ formato vertical 9:16 e tratamento de áudio, usando ferramentas gratuitas.
 - Registrar em `memoria/decisoes.md` toda decisão relevante (ferramenta escolhida,
   padrão de edição, mudança de regra), com data.
 - Atualizar `memoria/ambiente.md` quando o ambiente mudar (nova ferramenta, novo acesso).
+- **Vídeos e áudios não vão para o GitHub** (pesam demais). Ficam só no computador do Dionatan.
+  O repositório guarda apenas instruções, memória e scripts. O `.gitignore` já bloqueia esses arquivos.

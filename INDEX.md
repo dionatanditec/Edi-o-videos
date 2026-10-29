@@ -10,10 +10,9 @@ Mapa do repositório. Atualize sempre que criar ou mover arquivos/pastas.
 | `memoria/estilo-de-edicao.md` | Padrão de edição: ritmo, cortes, legenda, música, fontes, cores |
 | `memoria/ambiente.md` | Ferramentas, versões e sites acessíveis no ambiente |
 | `memoria/decisoes.md` | Registro de decisões |
-| `saida/teste-telejornal-9x16.mp4` | Teste: vídeo da Taína em 9:16 com tarja estilo telejornal (marca fictícia) |
-| `saida/podcast-taina-9x16.mp4` | Podcast da Taína: fundo trocado pelo escritório, 9:16, tarjas com nome e cargo |
 | `cenarios/escritorio-taina.webp` | Foto do escritório usada como fundo |
 | `ferramentas/recorte-pessoa.py` | Recorte de pessoa por quadro (MediaPipe), gera a máscara do vídeo |
 | `ferramentas/montar-podcast.sh` | Resumo dos passos de montagem do podcast |
-| `saida/podcast-taina-v2-9x16.mp4` | Versão 2: cenário frontal desenhado, sombra, grão e correção de cor |
 | `ferramentas/cenario-escritorio-frontal.py` | Gera o cenário (fundo e mesa) da versão 2 |
+| `saida/` | Pasta dos vídeos editados (só local, ignorada pelo Git) |
+| `.gitignore` | Impede subir vídeos e áudios pesados |

@@ -1,0 +1,11 @@
+# Vídeos e áudios pesados ficam só no computador, não no GitHub
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.mp3
+*.wav
+*.m4a
+saida/
+videos-originais/
