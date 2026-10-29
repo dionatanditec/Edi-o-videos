@@ -2,6 +2,13 @@
 
 Formato: data — decisão — motivo. Mais recentes no topo.
 
+## 2026-10-29 — Podcast da Taína com fundo trocado
+- **Decisão:** criar um podcast com marca própria para a Taína, com ela no escritório dela
+  atrás de uma mesa. Fundo trocado com recorte de pessoa (MediaPipe), fundo vindo de foto do escritório real
+  enviada pelo Dionatan. Nome do podcast e cargo: aguardando o Dionatan.
+- **Aprovado pelo Dionatan:** instalar MediaPipe (pip, Apache 2.0, pacote lido antes) e baixar o modelo de segmentação do Google.
+- **Nome correto:** Taína (com acento no í).
+
 ## 2026-10-29 — Estilo telejornal com marca fictícia (teste)
 - **Decisão:** não recriar identidade visual de emissoras reais (Globo, SBT) nem fazer parecer
   que a Taína tem programa nelas. Estilo telejornal só com marca própria/fictícia ("Papo de Divã", nome provisório).
