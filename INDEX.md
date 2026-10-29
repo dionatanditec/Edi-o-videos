@@ -16,3 +16,4 @@ Mapa do repositório. Atualize sempre que criar ou mover arquivos/pastas.
 | `ferramentas/cenario-escritorio-frontal.py` | Gera o cenário (fundo e mesa) da versão 2 |
 | `saida/` | Pasta dos vídeos editados (só local, ignorada pelo Git) |
 | `.gitignore` | Impede subir vídeos e áudios pesados |
+| `roteiros/` | Textos falados e observações de cada vídeo (base das legendas) |

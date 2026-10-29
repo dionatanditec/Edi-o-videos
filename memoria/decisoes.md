@@ -2,6 +2,10 @@
 
 Formato: data — decisão — motivo. Mais recentes no topo.
 
+## 2026-10-29 — Pasta roteiros/
+- **Decisão:** criar `roteiros/` no GitHub para guardar o texto falado de cada vídeo (base da legenda).
+- **Motivo:** pedido do Dionatan; a transcrição automática não funciona neste ambiente.
+
 ## 2026-10-29 — Edições pesadas ficam no computador
 - **Decisão:** vídeos e áudios não vão mais para o GitHub; as edições pesadas serão feitas no computador do Dionatan.
   O repositório guarda só CLAUDE.md, INDEX.md, memoria/, scripts em `ferramentas/` e cenários leves.
