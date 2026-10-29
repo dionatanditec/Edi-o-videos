@@ -2,6 +2,12 @@
 
 Formato: data — decisão — motivo. Mais recentes no topo.
 
+## 2026-10-29 — Repositório de Instagram (estratégia e conteúdo)
+- **Decisão:** a estratégia de Instagram (roteiros, legendas, calendário, métricas) fica no repositório
+  `Instagram-`, com coordenador, agente e skills próprias. Os roteiros de Reels aprovados lá também
+  são salvos em `roteiros/` deste repositório, para virar legenda na edição.
+- **Motivo:** pedido do Dionatan; separar o "o que postar" (Instagram-) do "como editar" (este repositório).
+
 ## 2026-10-29 — Pasta roteiros/
 - **Decisão:** criar `roteiros/` no GitHub para guardar o texto falado de cada vídeo (base da legenda).
 - **Motivo:** pedido do Dionatan; a transcrição automática não funciona neste ambiente.
