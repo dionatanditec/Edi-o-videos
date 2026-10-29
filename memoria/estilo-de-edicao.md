@@ -10,7 +10,7 @@
 - Nicho: Tainá, terapeuta psicanalista
 
 ## Ritmo
-- Rápido / médio / calmo: ______
+- Calmo, acolhedor, sem pressa
 - Duração média de cada corte: ______
 
 ## Tipo de corte
@@ -18,8 +18,8 @@
 - Remover silêncios e pausas? ______
 
 ## Legenda
-- Sempre legendar? ______
-- Estilo (palavra por palavra, frase inteira, destaque em palavras-chave): ______
+- Sempre legendar: sim
+- Estilo: frase inteira (não palavra por palavra)
 - Posição na tela: ______
 - Tamanho, contorno, fundo: ______
 
