@@ -10,3 +10,4 @@ Mapa do repositório. Atualize sempre que criar ou mover arquivos/pastas.
 | `memoria/estilo-de-edicao.md` | Padrão de edição: ritmo, cortes, legenda, música, fontes, cores |
 | `memoria/ambiente.md` | Ferramentas, versões e sites acessíveis no ambiente |
 | `memoria/decisoes.md` | Registro de decisões |
+| `saida/teste-telejornal-9x16.mp4` | Teste: vídeo da Tainá em 9:16 com tarja estilo telejornal (marca fictícia) |
