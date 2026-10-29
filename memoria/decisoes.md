@@ -2,6 +2,13 @@
 
 Formato: data — decisão — motivo. Mais recentes no topo.
 
+## 2026-10-29 — Versão 2 do podcast: cenário frontal desenhado
+- **Motivo:** o Dionatan achou a v1 ruim; o problema principal era o ângulo da foto (de lado/de baixo) diferente do vídeo (de frente).
+- **Decisão:** cenário desenhado por código, de frente e na altura dos olhos, desfocado como câmera real, com luz quente; sombra dela na parede; correção de cor; grão leve.
+- **Limites reconhecidos:** não é foto real; o vídeo original é 576x864. Para ficar realista de verdade: gravar vídeo novo em 1080p com luz suave e usar foto de fundo real, de frente.
+- **Pendente:** Dionatan ainda não aprovou ferramentas extras (RVM, Video Cleanup). Nenhuma foi baixada.
+- **Arquivos:** manter vídeos abaixo de ~50 MB (limite do GitHub é 100 MB).
+
 ## 2026-10-29 — Podcast da Taína com fundo trocado
 - **Decisão:** criar um podcast com marca própria para a Taína, com ela no escritório dela
   atrás de uma mesa. Fundo trocado com recorte de pessoa (MediaPipe), fundo vindo de foto do escritório real

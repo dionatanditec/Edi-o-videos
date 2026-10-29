@@ -15,3 +15,5 @@ Mapa do repositório. Atualize sempre que criar ou mover arquivos/pastas.
 | `cenarios/escritorio-taina.webp` | Foto do escritório usada como fundo |
 | `ferramentas/recorte-pessoa.py` | Recorte de pessoa por quadro (MediaPipe), gera a máscara do vídeo |
 | `ferramentas/montar-podcast.sh` | Resumo dos passos de montagem do podcast |
+| `saida/podcast-taina-v2-9x16.mp4` | Versão 2: cenário frontal desenhado, sombra, grão e correção de cor |
+| `ferramentas/cenario-escritorio-frontal.py` | Gera o cenário (fundo e mesa) da versão 2 |
