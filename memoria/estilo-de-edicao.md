@@ -4,8 +4,10 @@
 > perguntar antes de assumir um padrão.
 
 ## Formato
-- Proporção principal: 9:16 (vertical) — confirmar outros formatos: ______
-- Duração ideal: ______
+- Plataformas: Instagram (Reels) e TikTok
+- Proporção: 9:16 vertical, 1080x1920
+- Duração: 30 a 60 segundos
+- Nicho: Tainá, terapeuta psicanalista
 
 ## Ritmo
 - Rápido / médio / calmo: ______

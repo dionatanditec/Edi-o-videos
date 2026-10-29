@@ -14,7 +14,9 @@
 ## Vídeos
 
 - Para que uso os vídeos (vendas, portfólio, institucional, bastidores…): ______
-- Onde publico (Instagram, TikTok, YouTube Shorts, WhatsApp…): ______
+- Onde publico: Instagram e TikTok
+- Nicho: Tainá, terapeuta psicanalista
+- Relação com a Tainá (cliente, parceira, projeto próprio…): ______
 - Público que quero alcançar: ______
 - Frequência de publicação: ______
 

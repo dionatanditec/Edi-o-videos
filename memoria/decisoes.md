@@ -2,6 +2,11 @@
 
 Formato: data — decisão — motivo. Mais recentes no topo.
 
+## 2026-10-29 — Formato dos vídeos
+- **Decisão:** vídeos verticais 9:16 (1080x1920), de 30 a 60 segundos, para Instagram e TikTok,
+  no nicho da Tainá, terapeuta psicanalista.
+- **Motivo:** resposta do Dionatan na entrevista de estilo.
+
 ## 2026-10-29 — Estrutura inicial do repositório
 - **Decisão:** criar `CLAUDE.md`, `INDEX.md` e a pasta `memoria/`
   (sobre-mim, estilo-de-edicao, ambiente, decisoes).
