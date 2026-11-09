@@ -2,6 +2,11 @@
 
 Formato: data — decisão — motivo. Mais recentes no topo.
 
+## 2026-11-09 — Agente editor-de-video e skills próprias
+- **Decisão:** criar o agente `editor-de-video` e as skills `grill-me` e `handoff`, todos escritos por nós (sem código de terceiros).
+- **Motivo:** pedido do Dionatan de simplificar e gastar menos token. Skills de terceiros avaliadas (find-skills, agent-browser, video-edit-skill) ficam pendentes de aprovação.
+- **Pendente:** `video-edit-skill` (tenfoldmarc) só no computador: transcrição em inglês (`medium.en`), Windows ainda sem teste em máquina real, sem licença no repositório (não copiar para cá).
+
 ## 2026-10-29 — Pasta roteiros/
 - **Decisão:** criar `roteiros/` no GitHub para guardar o texto falado de cada vídeo (base da legenda).
 - **Motivo:** pedido do Dionatan; a transcrição automática não funciona neste ambiente.

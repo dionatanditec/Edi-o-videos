@@ -17,3 +17,6 @@ Mapa do repositório. Atualize sempre que criar ou mover arquivos/pastas.
 | `saida/` | Pasta dos vídeos editados (só local, ignorada pelo Git) |
 | `.gitignore` | Impede subir vídeos e áudios pesados |
 | `roteiros/` | Textos falados e observações de cada vídeo (base das legendas) |
+| `.claude/agents/editor-de-video.md` | Agente executor de edição de vídeo 9:16 (escrito por nós, sem terceiros) |
+| `.claude/skills/grill-me/` | Skill própria: entrevista uma pergunta por vez antes de trabalho caro |
+| `.claude/skills/handoff/` | Skill própria: prompt curto para retomar o trabalho em sessão nova |
